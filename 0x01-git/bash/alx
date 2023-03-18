@@ -1,2 +1,7 @@
 #!/bin/bash 
 echo "ALX School is so cool!"
+<<<<<<< HEAD
+This is the code from the main branch
+=======
+This is the code from the update_script branch
+>>>>>>> update_script
